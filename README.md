@@ -12,7 +12,7 @@ To use the BMI Calculator, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/bmi-calculator.git
+git clone https://github.com/AyushTIW30/bmi-calculator.git
 Navigate to the project directory:
 
 bash
